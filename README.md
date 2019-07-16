@@ -22,7 +22,7 @@ Style: Old School
 Tutorials:  
 [Elephant Man Teaches His Top 10 Dance Moves](https://youtu.be/jJ1Mz0itsec?t=263)
 
-## Down di flank
+## Down di Flank
 Creator:  
 Style: Old School
 
@@ -30,7 +30,7 @@ Tutorials:
 [How to dance dancehall: PON DI RIVER - Blacka Di Danca](https://youtu.be/NX_hn5HOrwk?list=PLR06NcTrklBrizjaiKoG_3g0liA72sj4I&t=147)  
 [HOW FI DANCE REGGAE VOL 1](https://youtu.be/opm7yVgy45k?t=36)
 
-## Give dem a run
+## Give Dem a Run
 Creator:  
 Style: Old School
 
@@ -38,12 +38,19 @@ Tutorials:
 [How to dance dancehall: PON DI RIVER - Blacka Di Danca](https://youtu.be/NX_hn5HOrwk?list=PLR06NcTrklBrizjaiKoG_3g0liA72sj4I&t=176)  
 [HOW FI DANCE REGGAE VOL 1](https://youtu.be/opm7yVgy45k?t=53)  
 
-## Gully creeper
+## Gully Creeper
 Creator:  
 Style: Old School
 
 Tutorials:  
 [Elephant Man Teaches His Top 10 Dance Moves](https://youtu.be/jJ1Mz0itsec?t=206)
+
+## Heel & Toe
+Creator:  
+Style: Old School
+
+Tutorials:  
+[HOW FI DANCE REGGAE VOL 1](https://www.youtube.com/watch?v=C4AIaEjfJwc)
 
 ## Jerry Springer
 Creator: Bogle  
@@ -59,6 +66,13 @@ Style: Old School
 Tutorials:  
 [The Jiggy » How To Dance w/ Lorenzo Hannah & Dionne Renee](https://youtu.be/N1O5UoV-H7U?t=29)  
 [Elephant Man Teaches His Top 10 Dance Moves](https://youtu.be/jJ1Mz0itsec?t=452)
+
+## Log On
+Creator: Bogle  
+Style: Old School
+
+Tutorials:  
+[How fi dance reggae Vol 1 "Learn " -- Log on](https://www.youtube.com/watch?v=sz8WydzXePI)  
 
 ## Nuh linga
 Creator: Ovamarz  
@@ -83,8 +97,8 @@ Tutorials:
 [Dancehall Tutorials | Lesson 4 - Wacky Dip, Stay Far, Pop Yuh Collar (StreetDanceTV)](https://youtu.be/u3Quq8OjQtw?t=87)
 
 ## Row di Boat
-Creator: 
-Style: Old School
+Creator: Bogle  
+Style: Old School 
 
 Tutorials:  
 [Dancehall Tutorials | Lesson 2 - Zip it up, Urkle Dance, Row di Boat (StreetDanceTV)](https://youtu.be/VibLZnjqWl8?t=127)
@@ -96,7 +110,7 @@ Style: Old School
 Videos:  
 [LATONYA STYLE - 22 BOGLE STEPS (Authentic Dancehall)](https://youtu.be/emT6teS9S6o?t=148)
 
-## Signal di plane
+## Signal di Plane
 Creator:  
 Style: Old School
 
@@ -148,7 +162,7 @@ Tutorials:
 [Dancehall Tutorials | Lesson 1 - Bogle, Willie bounce, World Dance (StreetDanceTV)](https://youtu.be/K7CK-Fx4z-c?t=115)
 
 ## Zip it up
-Creator: 
+Creator: Bogle  
 Style: Old School
 
 Tutorials:  
