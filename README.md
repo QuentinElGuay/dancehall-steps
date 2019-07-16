@@ -47,19 +47,26 @@ Tutorials:
 [Elephant Man Teaches His Top 10 Dance Moves](https://youtu.be/jJ1Mz0itsec?t=452)
 
 ## Nuh linga
-Creator:  
+Creator: Ovamarz  
 Style: Old School
 
 Tutorials:  
 [Elephant Man Teaches His Top 10 Dance Moves](https://youtu.be/jJ1Mz0itsec?t=146)
 
 ## Pon di river
-Creator:  
+Creator: John Hype  
 Style: Old School
 
 Tutorials:  
 [How to dance dancehall: PON DI RIVER - Blacka Di Danca](https://youtu.be/NX_hn5HOrwk?list=PLR06NcTrklBrizjaiKoG_3g0liA72sj4I&t=119)  
 [Elephant Man Teaches His Top 10 Dance Moves](https://youtu.be/jJ1Mz0itsec?t=68)
+
+## Pop yuh collar
+Creator: Bogle  
+Style:
+
+Tutorials:  
+[Dancehall Tutorials | Lesson 4 - Wacky Dip, Stay Far, Pop Yuh Collar (StreetDanceTV)](https://youtu.be/u3Quq8OjQtw?t=87)
 
 ## Row di Boat
 Creator: 
@@ -76,6 +83,13 @@ Tutorials:
 [How to dance dancehall: PON DI RIVER - Blacka Di Danca](https://youtu.be/NX_hn5HOrwk?list=PLR06NcTrklBrizjaiKoG_3g0liA72sj4I&t=97)  
 [Elephant Man Teaches His Top 10 Dance Moves](https://youtu.be/jJ1Mz0itsec?t=109)
 
+## Stay far
+Creator: Camron One-shot  
+Style:
+
+Tutorials:  
+[Dancehall Tutorials | Lesson 4 - Wacky Dip, Stay Far, Pop Yuh Collar (StreetDanceTV)](https://youtu.be/u3Quq8OjQtw?t=126)
+
 ## Sweep
 Creator:  
 Style: Old School
@@ -89,6 +103,13 @@ Style: Old School
 
 Tutorials:  
 [Dancehall Tutorials | Lesson 2 - Zip it up, Urkle Dance, Row di Boat (StreetDance TV)](https://youtu.be/VibLZnjqWl8?t=83)
+
+## Wacky dip
+Creator: Bogle  
+Style: Old School
+
+Tutorials:  
+[Dancehall Tutorials | Lesson 4 - Wacky Dip, Stay Far, Pop Yuh Collar (StreetDanceTV)](https://youtu.be/u3Quq8OjQtw?t=42)
 
 ## Willy Bounce
 Creator: Bogle  
