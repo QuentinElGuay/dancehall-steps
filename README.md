@@ -45,6 +45,13 @@ Style: Old School
 Tutorials:  
 [Elephant Man Teaches His Top 10 Dance Moves](https://youtu.be/jJ1Mz0itsec?t=206)
 
+## Jerry Springer
+Creator: Bogle  
+Style: Old School
+
+Videos:  
+[LATONYA STYLE - 22 BOGLE STEPS (Authentic Dancehall)](https://youtu.be/emT6teS9S6o?t=43)
+
 ## Jiggy
 Creator: Bogle  
 Style: Old School
@@ -82,6 +89,13 @@ Style: Old School
 Tutorials:  
 [Dancehall Tutorials | Lesson 2 - Zip it up, Urkle Dance, Row di Boat (StreetDanceTV)](https://youtu.be/VibLZnjqWl8?t=127)
 
+## Sesame Street
+Creator: Bogle
+Style: Old School
+
+Videos:  
+[LATONYA STYLE - 22 BOGLE STEPS (Authentic Dancehall)](https://youtu.be/emT6teS9S6o?t=148)
+
 ## Signal di plane
 Creator:  
 Style: Old School
@@ -105,7 +119,7 @@ Tutorials:
 [Elephant Man Teaches His Top 10 Dance Moves](https://youtu.be/jJ1Mz0itsec?t=310)
 
 ## Urkle dance
-Creator: 
+Creator: Bogle
 Style: Old School
 
 Tutorials:  
