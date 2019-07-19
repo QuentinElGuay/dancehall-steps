@@ -42,6 +42,13 @@ Tutorials:
 [How to dance dancehall: PON DI RIVER - Blacka Di Danca](https://youtu.be/NX_hn5HOrwk?list=PLR06NcTrklBrizjaiKoG_3g0liA72sj4I&t=147)  
 [HOW FI DANCE REGGAE VOL 1](https://youtu.be/opm7yVgy45k?t=36)
 
+## Elastic
+Creator: Latonya Style  
+Style: Universal
+
+Videos:  
+[A-Z STEPS (Name Spelling) Stylish Moves in Taipei [Doriane, Stacy & Latonya]](https://youtu.be/kSP2QfVr4P8?t=104)
+
 ## Foot Loose
 Creator: Ovamarz  
 Style: Old School
@@ -69,6 +76,12 @@ Style: Old School
 
 Tutorials:  
 [HOW FI DANCE REGGAE VOL 1](https://www.youtube.com/watch?v=C4AIaEjfJwc)
+
+## Innocence
+Creator: Latonya Style  
+Style: Old School
+
+Tutorials:  
 
 ## Jerry Springer
 Creator: Bogle  
@@ -122,6 +135,12 @@ Style: Old School
 
 Tutorials:  
 
+## Run It
+Creator: Latonya Style  
+Style: Old School
+
+Tutorials:  
+
 ## Row di Boat
 Creator: Bogle  
 Style: Old School 
@@ -164,6 +183,18 @@ Style: Old School
 Tutorials:  
 [Elephant Man Teaches His Top 10 Dance Moves](https://youtu.be/jJ1Mz0itsec?t=310)
 
+## Universal
+Creator: Latonya Style  
+Style: Universal
+
+Tutorials:  
+
+## Up and Live
+Creator: Sample Six  
+Style: Old School
+
+Tutorials:  
+
 ## Urkle dance
 Creator: Bogle
 Style: Old School
@@ -171,8 +202,8 @@ Style: Old School
 Tutorials:  
 [Dancehall Tutorials | Lesson 2 - Zip it up, Urkle Dance, Row di Boat (StreetDance TV)](https://youtu.be/VibLZnjqWl8?t=83)
 
-## Up and Live
-Creator: Sample Six  
+## Vex Complex
+Creator: Latonya Style  
 Style: Old School
 
 Tutorials:  
