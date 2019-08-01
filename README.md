@@ -136,10 +136,11 @@ Style: Old School
 Tutorials:  
 
 ## Pyro Pree
-Creator:  
+Creator: Pyro Tech Crew  
 Style: 
 
-Tutorials: https://www.instagram.com/p/Bf5csf7BqSz/?tagged=dhqschoolmoscow  
+Tutorials: 
+[Pyro Pree tutorial](https://www.instagram.com/p/Bf5csf7BqSz/?tagged=dhqschoolmoscow)
 
 ## Run It
 Creator: Latonya Style  
