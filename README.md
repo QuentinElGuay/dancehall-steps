@@ -135,6 +135,12 @@ Style: Old School
 
 Tutorials:  
 
+## Pyro Pree
+Creator:  
+Style: 
+
+Tutorials: https://www.instagram.com/p/Bf5csf7BqSz/?tagged=dhqschoolmoscow  
+
 ## Run It
 Creator: Latonya Style  
 Style: Old School
